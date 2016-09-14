@@ -11,4 +11,7 @@
     <string name="card_holder">CARD HOLDER</string>
     <string name="expiry">EXPIRY</string>
     <string name="mm_yy">MM/YY</string>
+    <string name="card_expiry">CARD EXPIRY</string>
+    <string name="name_on_card">NAME ON CARD</string>
+    <string name="card_number">CARD NUMBER</string>
 </resources>
